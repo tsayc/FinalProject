@@ -1,3 +1,8 @@
+ECE590 Final Project, Project Name TBD
+===
+
+This repo is forked from [klavins/elma](https://github.com/klavinslab/elma). It will be extened to serve as starting code for this final project. 
+
 Elma
 ===
 
