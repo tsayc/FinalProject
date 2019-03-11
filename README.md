@@ -12,13 +12,13 @@ The goal is to build a automatic transmission with paddle shifter. The transmiss
 
 Milestones
 
-1. Discuss with TA/Professor about the project complexity
+1. Discuss with TA/Professor about the project complexity and decide what factors should be considered for transmission.
 1. Create a base transimission class.
 1. Create transmission that optimize for fule efficiency
 1. Create test for transmission 
 1. Create paddle shifter function and test
 1. Document the code 
-1. Turn in by 3/11
+1. Turn in by 3/22
 
 Elma
 ===
