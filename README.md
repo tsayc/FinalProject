@@ -6,11 +6,11 @@ This repo is forked from [klavins/elma](https://github.com/klavinslab/elma). It 
 Project Proposal
 ===
 
-##Goal
+Goal
 
 The goal is to build a automatic transmission with paddle shifter. The transmission should selelct the best gear to optimize gas efficiency but also response to driver's paddle shifter to perform up shift or down shift.
 
-##Milestones
+Milestones
 
 1. Discuss with TA/Professor about the project complexity
 1. Create a base transimission class.
